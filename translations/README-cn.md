@@ -312,29 +312,29 @@
 
 ## 必备知识
 
-- [ ] **计算机是如何处理一段程序：**
-    - [ ] [CPU 是如何执行代码（视频）](https://www.youtube.com/watch?v=42KTvGYQYnA)
-    - [ ] [机器码指令（视频）](https://www.youtube.com/watch?v=Mv2XQgpbTNE)
+- [X] **计算机是如何处理一段程序：**
+    - [X] [CPU 是如何执行代码（视频）](https://www.youtube.com/watch?v=42KTvGYQYnA)
+    - [X] [机器码指令（视频）](https://www.youtube.com/watch?v=Mv2XQgpbTNE)
 
-- [ ] **编译器**
-    - [ ] [编译器是如何在 ~1 分钟内工作（视频）](https://www.youtube.com/watch?v=IhC7sdYe-Jg)
-    - [ ] [Hardvard CS50 —— 编译器（视频）](https://www.youtube.com/watch?v=CSZLNYF4Klo)
-    - [ ] [C++（视频）](https://www.youtube.com/watch?v=twodd1KFfGk)
+- [X] **编译器**
+    - [X] [编译器是如何在 ~1 分钟内工作（视频）](https://www.youtube.com/watch?v=IhC7sdYe-Jg)
+    - [X] [Hardvard CS50 —— 编译器（视频）](https://www.youtube.com/watch?v=CSZLNYF4Klo)
+    - [X] [C++（视频）](https://www.youtube.com/watch?v=twodd1KFfGk)
     - [ ] [掌握编译器的优化（C++）（视频）](https://www.youtube.com/watch?v=FnGCDLhaxKU)
 
-- [ ] **浮点数是如何存储的：**
-    - [ ] 简单的 8-bit：[浮点数的表达形式　—— 1（视频 —— 在计算上有一个错误 —— 详情请查看视频的介绍）](https://www.youtube.com/watch?v=ji3SfClm8TU)
+- [X] **浮点数是如何存储的：**
+    - [X] 简单的 8-bit：[浮点数的表达形式　—— 1（视频 —— 在计算上有一个错误 —— 详情请查看视频的介绍）](https://www.youtube.com/watch?v=ji3SfClm8TU)
     - [ ] 32 bit：[IEEE754 32-bit 浮点二进制（视频）](https://www.youtube.com/watch?v=50ZYcZebIec)
 
 ## 算法复杂度 / Big-O / 渐进分析法
 - 并不需要实现
-- [ ] [Harvard CS50 —— 渐进表示（视频）](https://www.youtube.com/watch?v=iOq5kSKqeR4)
-- [ ] [Big O 记号（通用快速教程）（视频）](https://www.youtube.com/watch?v=V6mKVRU1evU)
-- [ ] [Big O 记号（以及 Omega 和 Theta）——  最佳数学解释（视频）](https://www.youtube.com/watch?v=ei-A_wy5Yxw&index=2&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
-- [ ] Skiena 算法：
+- [X] [Harvard CS50 —— 渐进表示（视频）](https://www.youtube.com/watch?v=iOq5kSKqeR4)
+- [X] [Big O 记号（通用快速教程）（视频）](https://www.youtube.com/watch?v=V6mKVRU1evU)
+- [X] [Big O 记号（以及 Omega 和 Theta）——  最佳数学解释（视频）](https://www.youtube.com/watch?v=ei-A_wy5Yxw&index=2&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
+- [X] Skiena 算法：
     - [视频](https://www.youtube.com/watch?v=gSyDMtdPNpU&index=2&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b)
     - [幻灯片](http://www3.cs.stonybrook.edu/~algorith/video-lectures/2007/lecture2.pdf)
-- [ ] [对于算法复杂度分析的一次详细介绍](http://discrete.gr/complexity/)
+- [X] [对于算法复杂度分析的一次详细介绍](http://discrete.gr/complexity/)
 - [ ] [增长阶数（Orders of Growth）（视频）](https://class.coursera.org/algorithmicthink1-004/lecture/59)
 - [ ] [渐进性（Asymptotics）（视频）](https://class.coursera.org/algorithmicthink1-004/lecture/61)
 - [ ] [UC Berkeley Big O（视频）](https://youtu.be/VIS4YDpuP98)
